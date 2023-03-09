@@ -1,0 +1,251 @@
+.navbar{
+    background-color:rgba(0, 0, 0, 0.783);
+    height: 120px;
+    opacity: 80%;
+    
+}
+
+
+
+.nav-item a{
+    color: #f06292;
+    font-size: 20px;
+    font-weight: 700;
+}
+.nav-link{
+    margin-right: 20px;
+}
+.nav-item a:hover{
+    color: rgb(0, 0, 0);
+}
+.dropdown-menu{
+    background-color: #70082b;
+}
+.dropdown-item2 a{
+    color: white;
+}
+
+
+.carousel-indicators button{
+    color: black;
+}
+.card{
+    background-color: #410117;
+}
+.card-body a{
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+.card-body a:hover{
+    color: black;
+}
+h2{
+    font-family:"Signika Negative";
+    color: #f06292;
+}
+span{
+    color: #04e3ef;
+}
+mark{
+ 
+    color: #95ff00;
+}
+abbr{
+    color: #ff00f7;
+}
+.progress-bar{
+    background-color: #f06292;
+}
+label{
+    color: yellow  
+}
+
+input::placeholder{
+    color: #04e3ef !important;
+    opacity: 1;
+}
+
+
+.border{
+    border-top: #f06292 solid 4px;
+}
+.contactme-container{
+    border: #f06292 solid 10px;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+.btn{
+    background-color: #57031f;
+    color: white;
+}
+.btn:hover{
+    background-color: white;
+    color: #430519;
+}
+
+.footer-container{
+    background-color: #ede5e8;
+}
+
+.footer-text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #9c254d;
+}
+
+.footer-text2 a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #9c254d;
+
+}
+
+.footer-text2 a:hover{
+    color: #3300ff;
+}
+.social-icon i{
+    transform: 0.4s all;
+}
+.social-icon:hover i{
+    transform: scale(1.4);
+}
+.icon ul li{
+    list-style-type: none;
+    margin-left: 10px;
+}
+.progress{
+    width:75%;
+}
+
+.fa-brands{
+    color: #f06292;
+}
+
+.photography{
+    margin-top: 170px;
+}
+
+.image{
+    filter: brightness(0.3);
+}
+
+.pg-subcon1:hover .image{
+   filter: none;
+}
+.pg-subcon2:hover .image{
+    filter: none;
+
+}
+.pg-subcon3:hover .image{
+    filter: none;
+
+}
+.pg-subcon4:hover .image{
+    filter: none;
+}
+.pg-subcon5:hover .image{
+    filter: none;
+}
+.pg-subcon6:hover .image{
+    filter: none;
+}
+
+.pg-container2{
+    width: 350px;
+}
+.pg-container3{
+    width: 300px;
+}
+.pg-subcon1,.pg-subcon2,.pg-subcon3,.pg-subcon4,.pg-subcon5,.pg-subcon6 {
+    position: relative;
+    text-align: center;
+}
+.img-overtext{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 255, 255, 0.583);
+font-size: 18px;
+}
+
+
+.container-rightside{
+    border-right: #430519 dotted 6px;
+   
+}
+
+
+.card-body{
+    color: white;
+}
+.container-xp{
+    background-color: #e1cddd;
+    padding-top: 170px;
+}
+.card-text{
+    font-family:"lobster" ;
+    font-size: 30px;
+    color: #410117;
+}
+.CV p{
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h3{
+    font-family:"SignikaNegative";
+}
+.list-course a:hover{
+    background-color: #07136d;
+   
+}
+.video-text{
+    font-size: 25px;
+    font-family:"lobster" ;
+}
+.process-container{
+    font-size: 18px;
+}
+
+
+
+
+
+.navbar-nav .nav-link.active {
+  color: #fff;
+} 
+.carousel-inner {
+    max-height: 700px;
+    padding-top: 120px;
+}
+
+.contactme{
+    max-width: 700px;
+}
+
+.pg-subcon1 img,
+.pg-subcon2 img,
+.pg-subcon3 img{
+    height: 100%;
+}
+
+.pLeft02{
+    padding-left: calc(var(--bs-gutter-x) * 0.2);
+}
+
+.pRight02{
+    padding-right: calc(var(--bs-gutter-x) * 0.2);
+}
+
+
+.resume-heading{
+    padding-top: 120px;
+}
+
+.process-heading{
+    padding-top: 120px;
+}
